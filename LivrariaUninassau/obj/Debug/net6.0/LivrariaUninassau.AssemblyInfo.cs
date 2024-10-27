@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LivrariaUninassau")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+721ac150b8b4ed701e8dc1c8903699cb173dc4f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("LivrariaUninassau")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LivrariaUninassau")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
