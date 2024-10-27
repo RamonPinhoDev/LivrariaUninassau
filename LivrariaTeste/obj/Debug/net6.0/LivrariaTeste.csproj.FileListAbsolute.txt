@@ -1,0 +1,6 @@
+C:\Users\Ideapad 3i\Documents\Udemy\Projetos C# O\LivrariaUninassau\LivrariaTeste\obj\Debug\net6.0\LivrariaTeste.csproj.AssemblyReference.cache
+C:\Users\Ideapad 3i\Documents\Udemy\Projetos C# O\LivrariaUninassau\LivrariaTeste\obj\Debug\net6.0\LivrariaTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ideapad 3i\Documents\Udemy\Projetos C# O\LivrariaUninassau\LivrariaTeste\obj\Debug\net6.0\LivrariaTeste.AssemblyInfoInputs.cache
+C:\Users\Ideapad 3i\Documents\Udemy\Projetos C# O\LivrariaUninassau\LivrariaTeste\obj\Debug\net6.0\LivrariaTeste.AssemblyInfo.cs
+C:\Users\Ideapad 3i\Documents\Udemy\Projetos C# O\LivrariaUninassau\LivrariaTeste\obj\Debug\net6.0\LivrariaTeste.csproj.CoreCompileInputs.cache
+C:\Users\Ideapad 3i\Documents\Udemy\Projetos C# O\LivrariaUninassau\LivrariaTeste\obj\Debug\net6.0\MvcTestingAppManifest.json

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ideapad 3i\\Documents\\Udemy\\Projetos C# O\\LivrariaUninassau\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26DFD2FC-2461-4585-9EE3-E261F04F634C}|LivrariaUninassau\\LivrariaUninassau.csproj|c:\\users\\ideapad 3i\\documents\\udemy\\projetos c# o\\livrariauninassau\\livrariauninassau\\repositorios\\interfaces\\iemprestimorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DFD2FC-2461-4585-9EE3-E261F04F634C}|LivrariaUninassau\\LivrariaUninassau.csproj|solutionrelative:livrariauninassau\\repositorios\\interfaces\\iemprestimorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DFD2FC-2461-4585-9EE3-E261F04F634C}|LivrariaUninassau\\LivrariaUninassau.csproj|c:\\users\\ideapad 3i\\documents\\udemy\\projetos c# o\\livrariauninassau\\livrariauninassau\\repositorios\\emprestimorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DFD2FC-2461-4585-9EE3-E261F04F634C}|LivrariaUninassau\\LivrariaUninassau.csproj|solutionrelative:livrariauninassau\\repositorios\\emprestimorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DFD2FC-2461-4585-9EE3-E261F04F634C}|LivrariaUninassau\\LivrariaUninassau.csproj|c:\\users\\ideapad 3i\\documents\\udemy\\projetos c# o\\livrariauninassau\\livrariauninassau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DFD2FC-2461-4585-9EE3-E261F04F634C}|LivrariaUninassau\\LivrariaUninassau.csproj|solutionrelative:livrariauninassau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmprestimoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\Udemy\\Projetos C# O\\LivrariaUninassau\\LivrariaUninassau\\Repositorios\\Interfaces\\IEmprestimoRepositorio.cs",
+              "RelativeDocumentMoniker": "LivrariaUninassau\\Repositorios\\Interfaces\\IEmprestimoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\Udemy\\Projetos C# O\\LivrariaUninassau\\LivrariaUninassau\\Repositorios\\Interfaces\\IEmprestimoRepositorio.cs",
+              "RelativeToolTip": "LivrariaUninassau\\Repositorios\\Interfaces\\IEmprestimoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:33:00.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmprestimoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\Udemy\\Projetos C# O\\LivrariaUninassau\\LivrariaUninassau\\Repositorios\\EmprestimoRepositorio.cs",
+              "RelativeDocumentMoniker": "LivrariaUninassau\\Repositorios\\EmprestimoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\Udemy\\Projetos C# O\\LivrariaUninassau\\LivrariaUninassau\\Repositorios\\EmprestimoRepositorio.cs",
+              "RelativeToolTip": "LivrariaUninassau\\Repositorios\\EmprestimoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:32:04.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\Udemy\\Projetos C# O\\LivrariaUninassau\\LivrariaUninassau\\Program.cs",
+              "RelativeDocumentMoniker": "LivrariaUninassau\\Program.cs",
+              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\Udemy\\Projetos C# O\\LivrariaUninassau\\LivrariaUninassau\\Program.cs",
+              "RelativeToolTip": "LivrariaUninassau\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwDQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T23:32:02.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
